@@ -48,5 +48,3 @@
 <img href="https://raw.githubusercontent.com/npx08/npx08/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
-Profile Readme Generator
