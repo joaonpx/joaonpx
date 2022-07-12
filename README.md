@@ -41,6 +41,6 @@
 
 ###
 
-![Snake animation](https://github.com/npx08)
+![Snake animation](https://github.com/npx08/npx08/blob/output/github-contribution-grid-snake.svg)
 
 ###
