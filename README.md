@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="450" src="https://i.ibb.co/2v6RBbb/World-Map-Isometric-1.png"  />
+<img align="right" height="400" src="https://i.ibb.co/2v6RBbb/World-Map-Isometric-1.png"  />
 
 ###
 
