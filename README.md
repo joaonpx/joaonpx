@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="280" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  />
+<!-- <img align="right" height="280" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  /> -->
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-carlos-andrade-da-silva-23997a1b0/" target="_blank">
