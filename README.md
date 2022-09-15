@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Meu nome é João, mas pode me chamar de Npx<br><br>Tenho 17 anos, já tive experiência com programação e web desenvolvimento, mas fiquei parado por muito tempo, sem praticar nada.<br><br>Hoje, estou voltando com foco em me tornar um desenvolvedor front-end. Amo criar e ver o código funcionando na web. Me familiarizo muito com UI Design.<br><br>No tempo livre faço música e bebo muito chá...</p>
+<p align="left">Meu nome é João, mas pode me chamar de Npx<br><br>Tenho 18 anos, já tive experiência com programação e web desenvolvimento, mas fiquei parado por muito tempo, sem praticar nada.<br><br>Hoje, estou voltando com foco em me tornar um desenvolvedor front-end. Amo criar e ver o código funcionando na web. Me familiarizo muito com UI Design.<br><br>No tempo livre faço música e bebo muito chá...</p>
 
 ###
 
