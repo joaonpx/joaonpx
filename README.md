@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Meu nome é João, mas pode me chamar de Npx<br><br>Tenho 18 anos, já tive experiência com programação e web desenvolvimento, mas fiquei parado por muito tempo, sem praticar nada.<br><br>Hoje, estou voltando com foco em me tornar um desenvolvedor front-end. Amo criar e ver o código funcionando na web. Me familiarizo muito com UI Design.<br><br>No tempo livre faço música e bebo muito chá...</p>
+<p align="left">Apaixonado por tecnologia, comecei a programar bots para Discord com apenas 13 anos, desde então, fui pesquisando cada vez mais a fundo para entender como funcionava a área de desenvolvimento web. Hoje, estudo tecnologias e linguagens voltadas para o Front-end em paralelo com o curso superior de Análise e Desenvolvimento de Sistemas que faço na FIAP.</p>
 
 ###
 
