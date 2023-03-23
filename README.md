@@ -20,8 +20,7 @@ Hoje, estudo tecnologias e linguagens voltadas para o Front-end em paralelo com 
 
 <h2 align="left">📚 No momento estou estudando</h2>
 
-<span align="left">
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<span align="left"> ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 </span>
 
