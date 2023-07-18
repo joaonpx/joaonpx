@@ -61,6 +61,6 @@ Hoje, estudo tecnologias e linguagens voltadas para o Front-end em paralelo com 
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/joaonpx/joaonpx/output/snake.svg)
+![Snake animation](https://github.com/joaonpx/joaonpx/output/snake.svg)
 
 ###
