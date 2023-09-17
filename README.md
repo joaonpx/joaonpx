@@ -30,8 +30,7 @@ Hoje, estudo tecnologias e linguagens voltadas para o Front-end em paralelo com 
 
 <h2 align="left">🖥️ Tenho interesse em</h2>
 
-<span align="left">
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<span align="left"> ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 </span>
 
