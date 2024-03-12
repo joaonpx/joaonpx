@@ -40,24 +40,22 @@ Atualmente, estudo tecnologias e linguagens voltadas para o Front-end, enquanto 
 ###
 
 <div align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" width="52" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" width="52" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" width="52" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" width="52" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" width="52" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" width="52" alt="kotlin logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" width="52" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" width="52" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" width="52" alt="nodejs logo"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaonpx&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+<!-- <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaonpx&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaonpx&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
