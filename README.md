@@ -14,7 +14,7 @@
 
 <p align="left">Fascinado pela tecnologia, iniciei na programação de bots para o Discord aos 13 anos. Desde então, mergulhei a fundo na exploração da área de desenvolvimento web.
 
-Atualmente, estudo tecnologias e linguagens voltadas para o Front-end, enquanto curso Análise e Desenvolvimento de Sistemas na FIAP.</p>
+Atualmente, estudo tecnologias e linguagens voltadas para o Back-end, enquanto curso Análise e Desenvolvimento de Sistemas na FIAP.</p>
 
 ###
 
